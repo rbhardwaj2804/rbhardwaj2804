@@ -1,16 +1,12 @@
-### Hi there 👋
+Hi there, I'm Rahul Bhardwaj 👋
+LinkedIn
+I'm in Data Science!!
 
-<!--
-**rbhardwaj2804/rbhardwaj2804** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 Curious about the world of Data and AI, for most part of the day I sit and imagine future.
+🌍 I am Fasinated by the Universal forces driving us, be it Blackholes, be it Divine energy, EVERYTHING!
+🥅 2021 Goals: Be a better person, Learn DeepLearning, NLP and Computer Vision 🤖
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📺 Latest Projects and Contribution
+Multiple Linear Regression | Python | Machine Learning
+Lending Club Case Study EDA | Python
+Spark Funds Investment EDA | Python
