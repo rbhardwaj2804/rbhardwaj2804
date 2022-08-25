@@ -1,6 +1,6 @@
 Hi there, I'm Rahul Bhardwaj 👋
 
-LinkedIn
+LinkedIn : https://www.linkedin.com/in/bhardwajrrahul
 
 I'm in Data Science!!
 
